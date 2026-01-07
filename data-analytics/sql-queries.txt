@@ -58,21 +58,3 @@ FROM support_logs_processed
 GROUP BY user_agent
 ORDER BY avg_cpu_usage DESC;
 -----------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

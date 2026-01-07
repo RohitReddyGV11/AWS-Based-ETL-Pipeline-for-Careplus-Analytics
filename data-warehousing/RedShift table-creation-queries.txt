@@ -1,5 +1,3 @@
-
-
 Support Logs:
 ------------------------------------------------------------
 CREATE TABLE public.support_logs (
